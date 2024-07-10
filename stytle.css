@@ -1,0 +1,175 @@
+body{
+    height: 1000px;
+}
+
+
+.parent{
+    width: 40%;
+    height: 550px;
+    background-color: lightgray;
+    margin-top: 70px;
+    position: relative;
+}
+
+ .s1{
+    position: absolute;
+    font-size: 50px;
+    color: black;
+    margin: 130px 0 0 50px;
+}
+.s2 {
+    position: absolute;
+    font-size: 50px;
+    color: black;
+    margin: 180px 0 0 50px;
+}
+.div1 strong{
+    position: absolute;
+    font-size: 60px;
+    color: black;
+    margin: 180px 0 0 190px;
+}
+
+.div2{
+    width: 400px;
+    height: 200px;
+    margin: 50px 0 0 400px;
+    position: absolute;
+    float: left;
+}
+
+.div3{
+    width: 400px;
+    height: 200px;
+    margin: 50px 0 0 830px;
+    position: absolute;
+    float: left;
+}
+
+.div4{
+    width: 400px;
+    height: 200px;
+    margin: 300px 0 0 170;
+    position: absolute;
+}
+
+
+
+.img1{
+    width: 400px;
+    height: 200px;
+    float: left;
+}
+
+.img2{
+    width: 400px;
+    height: 200px;
+    float: left;
+   
+}
+
+.img3{
+    width: 500px;
+    height: 220px;
+    float:left;
+}
+
+ .divh1 {
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    background-color: white;
+    border-radius: 5px;
+    color: brown;
+    position: absolute;
+    margin-top: 20px;
+}
+
+
+.divh2 {
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    background-color: white;
+    border-radius: 5px;
+    color: brown;
+    position: absolute;
+    margin-top: 20px;
+}
+
+.divh3 {
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    background-color: white;
+    border-radius: 5px;
+    color: brown;
+    position: absolute;
+    margin-top: 20px;
+    opacity: 0.5;
+}
+
+.div10{
+    height: 250px;
+    width: 500px;
+    background-color: whitesmoke;
+    position: relative;
+    position: absolute;
+    margin: 300px 0 0 700px;
+    text-align: center;
+    font-size: 17px;
+}
+
+
+.div11{
+    width: 150px;
+    height: 140px;
+    background-color:burlywood;
+    position: absolute;
+    float:left;
+    border-radius: 5%;
+    margin: 20px 0 0 80px;
+    color: beige;
+   
+}
+
+.div12{
+    width: 150px;
+    height: 140px;
+    background-color:burlywood;
+    position: absolute;
+    border-radius: 5%;
+    float: left;
+    margin: 20px 0 0 280px ;
+    color: beige;
+}
+
+.div11:hover{
+    background-color: black;
+    opacity: 0.5;
+}
+
+.div12:hover{
+    background-color: black;
+    opacity: 0.5;
+}
+
+.divh1:hover{
+    background-color: black;
+    opacity: 0.5;
+    color:bisque
+}
+.divh2:hover{
+    background-color: black;
+    opacity: 0.5;
+    color: bisque;
+}
+.divh3:hover{
+    background-color: black;
+    opacity: 0.5;
+    color: bisque;
+
+}
+
+
+
